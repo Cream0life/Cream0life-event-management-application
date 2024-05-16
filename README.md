@@ -1,14 +1,18 @@
-
+# Event Management Application
 
 ## Description
-This is a Java application using Spring Boot and Maven.
+Our platform streamlines event organization, catering to diverse events from corporate conferences to personal celebrations. We provide an efficient, user-friendly solution to manage all aspects of event planning, empowering users to plan, and organize events with ease.
 
-##### Note: 
-* This is not a perfect Hexagonal Architecture implementation.
-* Perfect Hexagonal Architecture would have following modules:
-  * Domain - Business Logic
-  * Application - Sandwich between Domain and Infrastructure (Ports and Adapters)
-  * Infrastructure - Database, File System, Network, etc.
+## Features
+- **👤 User Registration and Authentication**
+- **🔍 Search and Filter**
+- **📅 Event Management**
+- **📍 Venue Selection and Booking**
+- **📋 Guest List Management**
+- **📝 Event Task Tracker**
+- **💰 Event Budgeting Tool**
+- **👥 Friend List**
+- **🌟 Feedback and Review System**
 
 ## Project setup
 ```
