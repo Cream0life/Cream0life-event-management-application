@@ -1,7 +1,7 @@
-# Your Application Name
+
 
 ## Description
-This is a template for a Java application using Spring Boot and Maven.
+This is a Java application using Spring Boot and Maven.
 
 ##### Note: 
 * This is not a perfect Hexagonal Architecture implementation.
