@@ -14,6 +14,11 @@ Our platform streamlines event organization, catering to diverse events from cor
 - **👥 Friend List**
 - **🌟 Feedback and Review System**
 
+## Technologies Used
+- **Front-End:** React, Bootstrap, JavaScript
+- **Back-End:**  Spring Boot, Java
+- **Database:** MySQL
+  
 ## Project setup
 ```
 mvn clean install
